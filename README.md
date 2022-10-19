@@ -1,1 +1,1 @@
-# Wendy Books: Bookstore Catalog
+# Wendy: Bookstore Catalog
