@@ -1,1 +1,1 @@
-# Wendy Books - Katalog Toko Buku
+# Wendy Books: Katalog Toko Buku
