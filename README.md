@@ -12,7 +12,7 @@ Wendy is a bookstore catalog app contains information about bookstore catalog, p
   - Android Studio
 
 ## Design  
-### Colors
+### Color
   - ![#112062](https://placehold.co/20x20/112062/112062.png)  #112062
   
 ### Tools
