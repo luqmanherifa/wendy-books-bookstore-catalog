@@ -5,29 +5,29 @@ Wendy is a bookstore catalog app contains information about bookstore catalog, p
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/src/images/mobile_wendy.png)
 
 ## Software
-- ### Language
+### Language
   - Java
 
-- ### Tools
+### Tools
   - Android Studio
 
 ## Design  
-- ### Colors
+### Colors
   - ![#112062](https://placehold.co/20x20/112062/112062.png)  #112062
   
-- ### Tools
+### Tools
   - CorelDRAW
 
 ## Build
-- ### Platform
+### Platform
   - Android
 
-- ### Deployment
+### Deployment
   - [Appetize](https://appetize.io/app/75h2klr5wkjfn7v2i2pvpwurfa)
-  
-- ### Date created
+
+### Date created
   - January 2020
-  
+
 ## Social
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
